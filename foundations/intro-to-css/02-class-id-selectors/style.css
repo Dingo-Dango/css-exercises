@@ -1,0 +1,19 @@
+
+.odds {
+    background-color: hsl(354, 61%, 73%);
+    font-family: Verdana, "DejaVu Sans" sans-serif;
+}
+
+#two {
+    color: rgb(0,0,200);
+    font-size: 36px;
+}
+
+.medtex {
+    font-size: 24px;
+}
+
+.four {
+    font-weight: bold;
+    background-color: #b9f67d;
+}
